@@ -1,0 +1,23 @@
+PRINTCHECKERPATTERN
+* * * * * 
+ * * * * *
+* * * * * 
+ * * * * *
+ PRINTSQUAREPATTERN
+ * * * * * 
+ *       * 
+ *       * 
+ *       * 
+ * * * * * 
+ PRINTTRANGULARPATTERN
+ * * * * * 
+  *     *
+   *   * 
+    * * 
+     *  
+ PRINTSTARPATERN
+    *    
+* *   * *
+   * *  
+  *   * 
+ *     *
