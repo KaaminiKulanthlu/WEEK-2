@@ -1,0 +1,15 @@
+package CampusLife;
+
+class CampusLifeinaday {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.print.ln("7.30am : Wake Up");
+		System.out.print.ln("8.00am: Breakfast");
+		System.out.print.ln("8.30am - 12.30pm : Class");
+		System.out.print.ln("1.00pm - 2.00pm : Lunch");
+		System.out.print.ln("2.00pm - 5.00pm : Class");
+		System.out.print.ln("5.00pm - 7.00pm: Homework and rest");
+		System.out.print.ln("7.00pm - 8.00pm : Dinner");
+		System.out.print.ln("8.30pm - 9.30pm : Study");
+		System.out.print.ln("10.30pm : Sleep");
